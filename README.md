@@ -41,3 +41,8 @@ Create "size_summary" DataFrame to show school performance based on size.
 
 Scores by School Type:
 Use the per_school_summary DataFrame to create "type_summary" showing school performance based on "School Type".
+
+Analysis: 
+In order to complement my work and provide additional insight into this project, there are a few important conclusions we can draw from the data. When looking at school size and the impact on performance, 
+we can observe that smaller and medium-sized schools tend to have higher average math and reading scores as well as higher passing rates compared to larger schools. This can suggest that academic performance
+may be influenced by school size. When looking at spending per student, it is observed that schools with lower per student budget appear to achieve higher average scores and passing rates which implies that efficient resource allocation may positively impact academic outcomes. For grade level performance, it is revealed that the math and reading scores by grade reveal trends in academic performance which can highlight areas that may need improvement. Finally, when looking at school type, we can discern that on average, charter schools tend to have higher average scores and passing rates in both math and reading compared to district schools which suggests that school type might be a significant factor in acadmeic success.
